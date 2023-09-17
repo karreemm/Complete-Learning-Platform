@@ -18,6 +18,11 @@ Welcome to the Beta Academy Learning Platform! This dynamic website is designed 
 - Guests can browse the available courses.
 - They cannot enroll in courses without logging in.
 
+### Search Courses
+- Users can search for courses based on course names.
+- A search bar is available on the platform's navbar for easy access.
+- The search results will display matching courses, allowing users to find and enroll in courses more efficiently.
+
 ### User View
 - Registered users have their profile page.
 - The profile page displays enrolled courses.
